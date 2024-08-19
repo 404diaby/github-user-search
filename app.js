@@ -1,13 +1,5 @@
-/* 
-commentaire
-responsive
-optimization et performance
-JavaScript moderne 
 
-*/  
-
-
-import { setTheme , initTheme } from './theme.js';
+import {  initTheme } from './theme.js';
 
 document.addEventListener('DOMContentLoaded', () => {
 
