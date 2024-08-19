@@ -1,7 +1,7 @@
 
 # Devfinder
 
-A simple Github user search app using GitHub API.
+A simple webpage where user can put in anyone's GitHub username and see their profile information.
 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com) 
@@ -9,6 +9,11 @@ A simple Github user search app using GitHub API.
 
 ![Preview Image](https://via.placeholder.com/300x200)
 
+### Technologies Used
+
+**Client:** JavaScript, CSS, HTML, Fetch API
+
+**Server:** Github API
 
 
 ## Features
@@ -57,8 +62,8 @@ Go to the project directory
 
 ## Preview
 
-![Preview Image](https://via.placeholder.com/300x200) k
-![Preview Image](https://via.placeholder.com/300x200)
+![Preview Image](./img/preview-dark-mode.png) k
+![Preview Image](./img/preview-light-mode.png)
 
 
 
@@ -67,30 +72,39 @@ Go to the project directory
 *A roadmap or future plans for features and improvements to the application.*
 
 
-- responsive: View the optimal layout for the app depending on their device's screen size
-- &#x2705; 
-- more modern js
-- favicon
-- comments
+- Responsive design: Implement an optimal layout for the app that adapts to different screen sizes.
+- more comments
 - optimization et performance
 - accesibilité
-- image preview on readme
+- image mobile preview  on readme
 - end user guide ?
 - Have the correct color scheme chosen for them based on their computer preferences.
-- look other rreadme and add somme info and inspiration
+- more refratoring
 
 
 These are just a few ideas to get you started. Remember to prioritize features based on user needs and feedback. Good luck with your project!
 
+## Inspiration
+
+
+[Kamran Ahmed](https://api.github.com/users/kamranahmedse)
+
+
+[Frontend Mentor](https://www.frontendmentor.io/challenges/github-user-search-app-Q09YOgaH6)
+
+
+[NinjaInShade](https://github.com/NinjaInShade/github-user-search)
+
+
+
 
 
 ## Social Links
-
-[![portfolio](https://img.shields.io/badge/my_portfolio-FF7B00?style=for-the-badge&logo=ko-fi&logoColor=white)](https://diaby-mamadou.vercel.app/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-1DA1F2?style=for-the-badge&logo=ko-fi&logoColor=white)](https://diaby-mamadou.vercel.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mamadou-diaby-107351231/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/404diaby)
 ## Demo
 
 You can try out the TodoList App demo here: 
 
-[![forthebadge](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMTcuNTYyNTI2NzAyODgwODYiIGhlaWdodD0iMzUiIHZpZXdCb3g9IjAgMCAxMTcuNTYyNTI2NzAyODgwODYgMzUiPjxyZWN0IHdpZHRoPSI1NS4wOTM3NjE0NDQwOTE4IiBoZWlnaHQ9IjM1IiBmaWxsPSIjMzFDNEYzIi8+PHJlY3QgeD0iNTUuMDkzNzYxNDQ0MDkxOCIgd2lkdGg9IjYyLjQ2ODc2NTI1ODc4OTA2IiBoZWlnaHQ9IjM1IiBmaWxsPSIjMzg5QUQ1Ii8+PHRleHQgeD0iMjcuNTQ2ODgwNzIyMDQ1OSIgeT0iMjEuNSIgZm9udC1zaXplPSIxMiIgZm9udC1mYW1pbHk9IidSb2JvdG8nLCBzYW5zLXNlcmlmIiBmaWxsPSIjRkZGRkZGIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBsZXR0ZXItc3BhY2luZz0iMiI+SE9TVDwvdGV4dD48dGV4dCB4PSI4Ni4zMjgxNDQwNzM0ODYzMyIgeT0iMjEuNSIgZm9udC1zaXplPSIxMiIgZm9udC1mYW1pbHk9IidNb250c2VycmF0Jywgc2Fucy1zZXJpZiIgZmlsbD0iI0ZGRkZGRiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC13ZWlnaHQ9IjkwMCIgbGV0dGVyLXNwYWNpbmc9IjIiPkhFUkU8L3RleHQ+PC9zdmc+)](https://github-user-search-ten-green.vercel.app/)
+[![forthebadge](./img/host-here.svg)](https://github-user-search-ten-green.vercel.app/)
