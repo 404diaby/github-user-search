@@ -80,6 +80,8 @@ Go to the project directory
 - end user guide ?
 - Have the correct color scheme chosen for them based on their computer preferences.
 - more refratoring
+- node + scrit start + install live server
+- add deployment (locally) part in readme
 
 
 These are just a few ideas to get you started. Remember to prioritize features based on user needs and feedback. Good luck with your project!
