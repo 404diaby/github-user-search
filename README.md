@@ -7,7 +7,7 @@ A simple webpage where user can put in anyone's GitHub username and see their pr
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com) 
 [![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com)
 
-![Preview Image](https://via.placeholder.com/300x200)
+![Preview Image](./assets/img/preview-dark-mode.png)
 
 ### Technologies Used
 
@@ -60,10 +60,15 @@ Go to the project directory
 * Switch between light and dark themes
 
 
-## Preview
+## Preview 
 
-![Preview Image](./img/preview-dark-mode.png) k
-![Preview Image](./img/preview-light-mode.png)
+
+![Preview desktop](./assets/img/preview-dark-mode.png) k
+![Preview desktop](./assets/img/preview-light-mode.png)
+
+![Preview mobile](./assets/img/preview-mobile-dark-mode.png)
+![Preview mobile](./assets/img/preview-mobile-light-mode.png)
+
 
 
 
@@ -71,12 +76,7 @@ Go to the project directory
 
 *A roadmap or future plans for features and improvements to the application.*
 
-
-- Responsive design: Implement an optimal layout for the app that adapts to different screen sizes.
-- more comments
 - optimization et performance
-- accesibilité
-- image mobile preview  on readme
 - end user guide ?
 - Have the correct color scheme chosen for them based on their computer preferences.
 - more refratoring
@@ -107,4 +107,4 @@ These are just a few ideas to get you started. Remember to prioritize features b
 
 You can try out the TodoList App demo here: 
 
-[![forthebadge](./img/host-here.svg)](https://github-user-search-ten-green.vercel.app/)
+[![forthebadge](./assets/img/host-here.svg)](https://github-user-search-ten-green.vercel.app/)

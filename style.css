@@ -192,6 +192,9 @@ html.light .user-section {
   height: 7.313em;
   width: 7.313em;
 }
+#user-img-mobile{
+  display: none;
+}
 
 .user-main {
   flex-grow: 1;
@@ -263,3 +266,96 @@ html.light .user-section {
 }
 
 /*  3   */
+
+
+/*media queri*/
+
+
+@media (max-width: 650px) {
+
+  body {
+    font-size: 0.813rem;
+    line-height: 25px;
+    padding: 32px 24px 80px 24px;
+  }
+  /* 2 */
+  .search-container {
+    padding: 7px;
+    margin-bottom: 16px;
+  }
+
+  .search-icon {
+    margin: 0 9px 0 6px;
+    margin: 0 .5em 0 .375em;
+    font-size: 1.3em;
+  }
+
+  .search-input {
+    font-size: 0.813rem;
+    margin-right: 9px;
+  }
+  .search-error {
+    font-size: .9em;
+  }
+  /* 2*/
+  /* 3 */
+  .user-section {
+    padding: 32px 24px;
+  }
+
+  #user-img{
+    display: none;
+  }
+  #user-img-mobile{
+    display: block;
+  grid-column: 1 / 2;
+    grid-row: span 3;
+
+  margin-right: 1.25em;
+  height: 4.375;
+  width: 4.375;
+  }
+
+  .user-top {
+    justify-content: flex-start;
+    grid-template-rows: repeat(3, auto);
+    row-gap: 0;
+  }
+
+.user-name{
+  font-size: 1rem;
+  line-height: 24px;
+}
+
+.user-username{
+  font-size: 0.813rem;
+  line-height: 19px;
+  
+
+}
+  .user-bio {
+    margin: 1em 0 .7em 0; 
+  }
+
+  .user-stats {
+    margin-bottom: 24px;
+    padding: .9em;
+  }
+  .user-stat-title{
+    font-size: 0.688rem;
+    line-height: 16px;
+  }
+  .user-stat-value{
+
+    font-size: 1rem;
+    line-height: 24px;
+  }
+
+  .user-links {
+    grid-template-columns: 1fr;
+    row-gap: 16px;
+  }
+
+
+
+}
