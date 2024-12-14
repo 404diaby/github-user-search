@@ -107,6 +107,6 @@ These are just a few ideas to get you started. Remember to prioritize features b
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/404diaby)
 ## Demo
 
-You can try out the TodoList App demo here: 
+You can try out the Github User Search App demo here: 
 
 [![forthebadge](./assets/img/host-here.svg)](https://github-user-search-ten-green.vercel.app/)
